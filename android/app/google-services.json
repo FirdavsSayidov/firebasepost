@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285355623709",
+    "project_id": "fir-post-526c9",
+    "storage_bucket": "fir-post-526c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285355623709:android:3f6dd6a432470e87b38df4",
+        "android_client_info": {
+          "package_name": "com.pdp.firebasepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285355623709-ktuvhkk33qielhcao717nffs6lootks8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTIGjZmd0RwQV6_A-xE90k3AV46TVaQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285355623709-ktuvhkk33qielhcao717nffs6lootks8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
